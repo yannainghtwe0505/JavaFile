@@ -4,5 +4,5 @@
 /**
  * 
  */
-module JavaFile {
+module JavaIO {
 }
