@@ -11,7 +11,6 @@ public class IO {
 		var file = new File("C:\\Users\\Admin\\Documents\\Project\\Dummy\\zoo.txt");
 		System.out.println(file.exists());
 		if (file.exists()) {
-//			file.createNewFile();
 			System.out.println("Absolute Path: " + file.getAbsolutePath());
 			System.out.println("Is Directory: " + file.isDirectory());
 			System.out.println("Parent Path: " + file.getParent());
